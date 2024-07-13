@@ -1,1 +1,6 @@
 its weird ik
+
+if(!me)
+{
+    at @ do delete;
+}
